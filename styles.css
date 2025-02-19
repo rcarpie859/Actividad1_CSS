@@ -29,7 +29,7 @@ a {
     width: 100%;
     box-sizing: border-box;
     text-decoration: none;
-    transition: background 0.3s, color 0.3s; /* Transición suave para hover */
+    
 }
 
 a:hover {
@@ -53,5 +53,5 @@ a i {
 
 a:focus {
     
-    color: white;
+    color: #d9d9d9;
 }
